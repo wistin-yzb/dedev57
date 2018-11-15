@@ -10,4 +10,8 @@ $typeArr[8] = '商品销售';
 $typeArr[9] = '分类信息';
 $typeArr[10] = '织梦CMS';
 $typeArr[11] = '帮助文档';
+$typeArr[12] = '小说';
+$typeArr[13] = '黄页';
+$typeArr[14] = '问答';
+$typeArr[15] = '圈子';
 ?>
